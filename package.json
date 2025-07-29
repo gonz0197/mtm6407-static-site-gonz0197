@@ -1,0 +1,26 @@
+{
+  "name": "mtm6407-static-site-gonz0197",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonz0197/mtm6407-static-site-gonz0197.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonz0197/mtm6407-static-site-gonz0197/issues"
+  },
+  "homepage": "https://github.com/gonz0197/mtm6407-static-site-gonz0197#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
